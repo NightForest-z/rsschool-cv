@@ -1,17 +1,17 @@
-1.Dima Stepin
-2.Contacts
-+375336905802 (mts)
-nightforest98@gmail.com
-(https://github.com/NightForest-z)
-discord: NightForest#3725
+1.**Dima Stepin**<br/>
+2.Contacts <br/>
++375336905802 (mts)<br/>
+nightforest98@gmail.com<br/>
+(https://github.com/NightForest-z)<br/>
+discord: NightForest#3725<br/>
 
-3.Summary
-I want to find my way in this life..(job, interests, peoples)
+3.Summary<br/>
+I want to find my way in this life..(job, interests, peoples)<br/>
 
-4.Skills
-I have confident beginner's skills in such programming languages as javascript and C++, also I have dedicated many hours to gain understanding of HTML and CSS from multiply sources. Here's link to my accomplishments on codeacademy - (https://www.codecademy.com/users/NightForest-z/achievements). 
+4.Skills<br/>
+I have confident beginner's skills in such programming languages as javascript and C++, also I have dedicated many hours to gain understanding of HTML and CSS from multiply sources. Here's link to my accomplishments on codeacademy - (https://www.codecademy.com/users/NightForest-z/achievements). <br/>
 
-5.Code examples
+5.Code examples<br/>
 This code removes duplicates from array
 ``` javascript
 function removeDuplicates(array) {
@@ -38,11 +38,11 @@ function removeDuplicates(array) {
   return a
 };
 ```
-6.Expierience
-I don't have any expierience, but i am learning HTML, CSS and JS 
+6.Expierience<br/>
+I don't have any expierience, but i am learning HTML, CSS and JS <br/>
 
-7.Education
-I was studying in colledge and graduated with engineering education(arc/gas welder in 2018), after that I got job based on my specialisation, I've been there from 2018 to 2019 and then got tired of this job. I got interested in IT while studying and i hope that i can learn and work in IT industry. 
+7.Education<br/>
+I was studying in colledge and graduated with engineering education(arc/gas welder in 2018), after that I got job based on my specialisation, I've been there from 2018 to 2019 and then got tired of this job. I got interested in IT while studying and i hope that i can learn and work in IT industry. <br/>
 
-8.English
-Upper-intermediate from studying in colledge and self-education. Sometimes I have some practice of understanding text while reading books and watching subtitled films. 
+8.English<br/>
+Upper-intermediate from studying in colledge and self-education. Sometimes I have some practice of understanding text while reading books and watching subtitled films. <br/>
