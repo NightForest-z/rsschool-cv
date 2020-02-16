@@ -12,7 +12,32 @@ I want to find my way in this life..(job, interests, peoples)
 I have confident beginner's skills in such programming languages as javascript and C++, also I have dedicated many hours to gain understanding of HTML and CSS from multiply sources. Here's link to my accomplishments on codeacademy - (https://www.codecademy.com/users/NightForest-z/achievements). 
 
 5.Code examples
-
+This code removes duplicates from array
+``` javascript
+function removeDuplicates(array) {
+  return array.filter((a, b) => array.indexOf(a) === b)
+};
+function removeDuplicates(array) {
+  let x = {};
+  array.forEach(function(i) {
+    if(!x[i]) {
+      x[i] = true
+    }
+  })
+  return Object.keys(x)
+};
+function removeDuplicates(array) {
+  array.splice(0, array.length, ...(new Set(array)))
+};
+function removeDuplicates(array) {
+  let a = []
+  array.map(x => 
+    if(!a.includes(x) {
+      a.push(x)
+    })
+  return a
+};
+```
 6.Expierience
 I don't have any expierience, but i am learning HTML, CSS and JS 
 
