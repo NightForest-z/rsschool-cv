@@ -1,0 +1,18 @@
+.resume {
+  font-family: Tahoma;
+  color: green;
+}
+
+.text {
+  font-family: cursive;
+}
+
+.list{
+  font-family: Arial;
+  color: gray;
+}
+
+.body{
+  width:50%;
+  margin: auto;
+}
